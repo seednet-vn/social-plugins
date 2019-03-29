@@ -1,6 +1,6 @@
 # Embedded Brand
 
-![seednet](../assets/demo/embedded_brand_001.png)
+![sdk-yh-brand-events](../assets/demo/embedded_brand_001.png)
 
 ## Demo
 
