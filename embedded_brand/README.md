@@ -16,3 +16,7 @@
 ```
 
 [CodePen](https://codepen.io/daofresh-the-vuer/pen/Rdzbrx)
+
+## Authors
+
+* **Voi** - *🐘* - [Voi](https://github.com/daofresh)
