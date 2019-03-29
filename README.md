@@ -1,5 +1,7 @@
 # Social Plugins 🌐📣📢
 
+![seednet](assets/logo/seednet/seednet.png)
+
 The easiest way to make your app or website social
 
 Social Plugins is a suite of tools bringing youHUB content and functionality to your webpages and apps, enabling the youHUB audience to share your content, and follow your brand (company, organization, colleges, university)
