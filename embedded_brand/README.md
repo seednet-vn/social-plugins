@@ -19,4 +19,4 @@
 
 ## Authors
 
-* **Voi** - *🐘* - [Voi](https://github.com/daofresh)
+* **Phan Khắc Đạo** - *🐘* - [Voi](https://github.com/daofresh)
