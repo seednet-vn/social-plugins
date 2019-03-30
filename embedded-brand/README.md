@@ -1,8 +1,8 @@
-# Embedded Brand
+# Embedded Brand: Listing all event of your Brand
 
 ![sdk-yh-brand-events](../assets/demo/embedded_brand_001.png)
 
-## How to work
+## How To Work
 
 ```html
 
