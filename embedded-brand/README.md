@@ -15,7 +15,7 @@
 
 ```
 
-* [Code demo](https://github.com/seednet-vn/social-plugins/blob/master/embedded_brand/index.html)
+* [Code demo](https://github.com/seednet-vn/social-plugins/blob/master/embedded-brand/index.html)
 
 * [CodePen](https://codepen.io/daofresh-the-vuer/pen/Rdzbrx)
 

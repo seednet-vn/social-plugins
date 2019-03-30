@@ -10,7 +10,7 @@ Social Plugins is a suite of tools bringing youHUB content and functionality to 
 
 ![sdk-yh-brand-events](assets/demo/embedded_brand_001.png)
 
-[Read more](https://github.com/seednet-vn/social-plugins/tree/master/embedded_brand)
+[Read more](https://github.com/seednet-vn/social-plugins/tree/master/embedded-brand)
 
 ## Contact
 
